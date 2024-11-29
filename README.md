@@ -12,4 +12,4 @@ Hi Everyone 😀
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HaHmada&show_icons=true&theme=gotham" alt="HaHmada" />
 
-- I Use Ubuntu Btw         <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
+- I Use Ubuntu Btw         <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
