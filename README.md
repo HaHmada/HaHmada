@@ -15,7 +15,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HaHmada&show_icons=true&theme=gotham" alt="HaHmada" />
 
 
-I Use Ubuntu Btw         <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
+**I Use**         <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>        **And**        
+<a href="https://www.microsoft.com/en-us/software-download/windows10"><img src="https://img.shields.io/badge/Windows-10-blue?style=flat&logo=windows" /></a>        **Btw**
 
 <div align="left">
 	
