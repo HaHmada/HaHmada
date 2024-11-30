@@ -16,6 +16,7 @@ Hi Everyone 😀
 I Use Ubuntu Btw         <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
 
 <div align="left">
+	
 - **My Media Sosial List :3**
 
 <div align="center">
