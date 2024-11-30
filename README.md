@@ -1,5 +1,6 @@
 <div align="center">
-Hi Everyone 😀
+	
+**Hi Everyone 😀**
 
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
@@ -8,7 +9,8 @@ Hi Everyone 😀
 </div>
 
 <div align="center">
-📈 My Github Stats
+	
+**📈 My Github Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HaHmada&show_icons=true&theme=gotham" alt="HaHmada" />
 
