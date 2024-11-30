@@ -14,4 +14,4 @@ Hi Everyone 😀
 
 - I Use Ubuntu Btw         <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
 
-<a href="https://github.com/HaHmada"><img src="https://img.shields.io/badge/Git%20Hub-HaH%20Mada-red?style=flat&logo=github" /></a>
+<a href="https://github.com/HaHmada"><img src="https://img.shields.io/badge/GitHub-HaHmada-red?style=flat&logo=github" /></a>
