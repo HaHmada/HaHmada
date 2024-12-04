@@ -23,7 +23,7 @@
 - **My Media Sosial And My Website :3**
 
 
-<p align="center">
+<div align="center">
 
  <details>
 	 <summary><b>List</b></summary>
@@ -35,6 +35,7 @@
  <a href="https://youtube.com/@HaHmada132" target="_blank">
     <img src="https://img.shields.io/badge/@HaHmada132-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
+
 
  <a href="https://hahmada132.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/HaHmada-Website-%231DA1F2.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=071A2C" alt="Blogger"/>
