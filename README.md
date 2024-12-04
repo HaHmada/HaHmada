@@ -20,17 +20,22 @@
 
 <div align="left">
 	
-- **My Media Sosial List :3**
+- **My Media Sosial And My Website :3**
 
 
-<div align="center">
+<p align="center">
 
  <details>
 	 <summary><b>List</b></summary>
-<a href="https://github.com/HaHmada"><img src="https://img.shields.io/badge/GitHub-HaHmada-red?style=flat&logo=github" /></a>
+ <a href="https://github.com/HaHmada" target="_blank">
+    <img src="https://img.shields.io/badge/HaHmada-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/>
+  </a>
 
 
-<a href="https://www.youtube.com/@HaHmada132"><img src="https://img.shields.io/badge/Youtube-HaHmada-gold?style=flat&logo=youtube" /></a>
+ <a href="https://youtube.com/@HaHmada132" target="_blank">
+    <img src="https://img.shields.io/badge/@HaHmada132-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
+  </a>
 
-
-<a href="https://hahmada132.blogspot.com/"><img src="https://img.shields.io/badge/Website-HaHmada-blue?style=flat&logo=blogger" /></a>
+ <a href="https://hahmada132.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HaHmada-Website-%231DA1F2.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=071A2C" alt="Blogger"/>
+  </a>
