@@ -26,7 +26,7 @@
 <div align="center">
 
  <details>
-	 <summary><b>List</b></summary>
+	 <summary><b>Click Here</b></summary>
  <a href="https://github.com/HaHmada" target="_blank">
     <img src="https://img.shields.io/badge/HaHmada-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/>
   </a>
