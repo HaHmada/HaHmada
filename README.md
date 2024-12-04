@@ -24,6 +24,8 @@
 
 
 <div align="center">
+
+ <details>
 <a href="https://github.com/HaHmada"><img src="https://img.shields.io/badge/GitHub-HaHmada-red?style=flat&logo=github" /></a>
 
 
@@ -31,3 +33,4 @@
 
 
 <a href="https://hahmada132.blogspot.com/"><img src="https://img.shields.io/badge/Website-HaHmada-blue?style=flat&logo=blogger" /></a>
+<details>
