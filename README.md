@@ -28,15 +28,15 @@
  <details>
 	 <summary><b>Click Here</b></summary>
  <a href="https://github.com/HaHmada" target="_blank">
-    <img src="https://img.shields.io/badge/HaHmada-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/>
   </a>
 
 
  <a href="https://youtube.com/@HaHmada132" target="_blank">
-    <img src="https://img.shields.io/badge/@HaHmada132-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 
 
  <a href="https://hahmada132.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HaHmada-Website-%231DA1F2.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=071A2C" alt="Blogger"/>
+    <img src="https://img.shields.io/badge/Blogger-%231DA1F2.svg?&style=for-the-badge&logo=blogger&logoColor=white&color=071A2C" alt="Blogger"/>
   </a>
