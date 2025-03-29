@@ -20,7 +20,7 @@
 
 <div align="left">
 	
-- **My Media Sosial And My Website :3**
+- **My Media Sosial And My Blog :3**
 
 
 <div align="center">
